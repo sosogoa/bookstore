@@ -13,6 +13,7 @@
 
 • 관리자 계정 상품관리
 # 주요기능 화면
+![메인화면](https://github.com/sosogoa/bookstore/assets/60857890/fbd99537-1005-4cb3-8c9c-1e82eace2f4d)
 ![회원가입2](https://github.com/sosogoa/bookstore/assets/60857890/9f9b7ab3-b064-4dc2-8b6e-515a0f9b8011)
 ![로그인](https://github.com/sosogoa/bookstore/assets/60857890/7a842757-165b-42f4-9dc9-b817479a30ad)
 
